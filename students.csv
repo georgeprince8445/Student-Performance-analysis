@@ -1,0 +1,16 @@
+Student_ID,Name,Department,Marks_Math,Marks_Science,Marks_English,Attendance
+S001,Aarav Sharma,Computer Science,95,92,88,96
+S002,Priya Singh,Mathematics,82,85,90,91
+S003,Rohan Verma,Physics,68,74,71,78
+S004,Ananya Gupta,Computer Science,91,89,94,98
+S005,Kabir Patel,Commerce,76,70,79,84
+S006,Meera Joshi,Biology,88,93,86,95
+S007,Ishaan Khan,Computer Science,59,64,61,72
+S008,Sana Ali,English,84,81,96,89
+S009,Arjun Das,Physics,73,78,69,80
+S010,Diya Nair,Mathematics,97,94,91,99
+S011,Vivaan Rao,Commerce,65,58,72,68
+S012,Aisha Khan,Biology,90,87,89,93
+S013,Reyansh Mehta,Computer Science,78,83,80,86
+S014,Ira Kapoor,English,54,62,57,74
+S015,Aditya Bose,Physics,86,79,84,90
